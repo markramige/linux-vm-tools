@@ -1,5 +1,6 @@
 #!/bin/bash
 # Original : https://raw.githubusercontent.com/Microsoft/linux-vm-tools/master/arch/install-config.sh
+# Source: https://github.com/microsoft/linux-vm-tools/pull/98
 
 ###############################################################################
 # Update our machine to the latest code if we need to.
